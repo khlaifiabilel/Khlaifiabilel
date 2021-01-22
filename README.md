@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [NLP arbic recognition hand writing](https://github.com/KalifiaBillal/NLP-arbic-recognition-hand-writing)
 
-- 💬 Ask me about **IOT , Machine learning and Front end web dev**
+- 💬 Ask me about **IOT , Machine learning and Accelerated Computing with CUDA C/C++/Python**
 
 - 📫 How to reach me **Kalifiabillal@gmail.com**
 
