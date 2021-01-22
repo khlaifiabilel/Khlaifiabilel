@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalifia Billal</h1>
+<h1 align="center">Hi 👋, I'm Khlaifia Billal</h1>
 <h3 align="center">Data scientist and an AI enthusiast</h3>
 
 - 🔭 I’m currently working on [PyCuda Denoise Filters](https://github.com/KalifiaBillal/PyCuda_Denoise_Filters)
