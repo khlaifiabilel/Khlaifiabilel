@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalifia Billal</h1>
 <h3 align="center">Data scientist and an AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalifiabillal" alt="kalifiabillal" /> </p>
-
 - 🔭 I’m currently working on [PyCuda Denoise Filters](https://github.com/KalifiaBillal/PyCuda_Denoise_Filters)
 
 - 🌱 I’m currently learning **CUDA Nvidia**
