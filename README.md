@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CUDA Nvidia**
 
-- 👯 I’m looking to collaborate on [Facial Expression Detection](https://github.com/KalifiaBillal/Facial-Expression-Detection)
+- 👯 I’m looking to collaborate on [Self-Driving Cars](#)
 
 - 🤝 I’m looking for help with [NLP arbic recognition hand writing](https://github.com/KalifiaBillal/NLP-arbic-recognition-hand-writing)
 
