@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khlaifia Billal</h1>
+<h1 align="center">Hi 👋, I'm Khlaifia Bilel</h1>
 <h3 align="center">Data scientist and an AI enthusiast</h3>
 
 - 🔭 I’m currently working on [AI Powered Unmanned Aerial Vehicle (Autonomous-UAV-visual-navigation)](https://github.com/khlaifiabilel/Autonomous-UAV-visual-navigation)
