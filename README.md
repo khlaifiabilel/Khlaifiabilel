@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **IOT , Machine learning and Accelerated Computing with CUDA C/C++/Python**
 
-- 📫 How to reach me **Kalifiabillal@gmail.com**
+- 📫 How to reach me **khlaifiabilel@icloud.com**
 
 - ⚡ Fun fact **I am a huge AI enthusiast**
