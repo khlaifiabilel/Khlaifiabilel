@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Khlaifia Bilel</h1>
-<h3 align="center">Data scientist and an AI enthusiast</h3>
-
-- 🔭 I’m currently working on [AI Powered Unmanned Aerial Vehicle (Autonomous-UAV-visual-navigation)](https://github.com/khlaifiabilel/Autonomous-UAV-visual-navigation)
-
-- 🌱 I’m currently learning **CUDA Nvidia**
-
-- 👯 I’m looking to collaborate on [Autonomous micro aerial vehicles (MAV)](#)
-
-- 🤝 I’m looking for help with [Deep Reinforcement Learning in Robotics](https://github.com/khlaifiabilel/Deep-Reinforcement-Learning-in-Robotics)
-
-- 💬 Ask me about **IOT , Machine learning and Accelerated Computing with CUDA C/C++/Python**
-
-- 📫 How to reach me **khlaifiabilel@icloud.com**
-
-- ⚡ Fun fact **I am a huge AI enthusiast**
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span> 🤓 <a href="https://www.willmcgugan.com">Khlaifia Bilel</a>            
+<span style="color: #000080; text-decoration-color: #000080">║</span> I'm an Autonomous system Engineer, living in <a href="https://www.google.com/maps/place/sousse">Sousse</a>, <span style="color: #000080; text-decoration-color: #000080">    ║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🤖 Autonomous systems expert       
+<span style="color: #000080; text-decoration-color: #000080">║</span> Tunisia. Other than Autonomous Systems Engineering,   <span style="color: #000080; text-decoration-color: #000080">   ║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>✈️ <a href="https://github.com/khlaifiabilel/Autonomous-UAV-visual-navigation">AI Powered Unmanned Aerial Vehicle</a>            
+<span style="color: #000080; text-decoration-color: #000080">║</span> my passion would be GPU Accelerated computing</a>.           <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┣━━ </span>🛩️ <a href="https://github.com/khlaifiabilel/Reinforcement-Learning-of-Quadrotor-Control">Reinforcement Learning of Quadrotor Control</a>    
+<span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┃   </span><span style="color: #008000; text-decoration-color: #008000">┗━━ </span>💾 <a href="https://github.com/khlaifiabilel/Deep-Reinforcement-Learning-in-Robotics">Deep Reinforcement Learning in Robotics</a>          
+<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Follow me on twitter </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/Khlaifiabilel">@Khlaifiabilel</a></span>                        <span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008080; text-decoration-color: #008080">┣━━ </span>🚀 Machine Learning Engineer
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span> <span style="color: #008080; text-decoration-color: #008080">┗━━ </span>🧑🏻‍💻 Accelerated Computing Developer               
+</pre>
